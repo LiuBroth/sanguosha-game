@@ -1,0 +1,17 @@
+General voice recordings — 三国杀 · 一局风云
+
+Original synthetic character voices generated locally with Qwen3-TTS.
+No official game recordings or real-person reference recordings are included.
+
+Voice design: mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16
+Card synthesis: mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit
+The model cards identify these models as Apache-2.0 licensed.
+Runtime: MLX-Audio (MIT).
+
+https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
+https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit
+https://github.com/Blaizzy/mlx-audio
+
+Generation records and original synthetic references are retained in the
+project's voice-production directory. Model weights are not distributed
+with the game and are not required to play it.
